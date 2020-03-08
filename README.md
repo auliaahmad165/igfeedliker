@@ -4,7 +4,7 @@
 
 *  INSTAGRAM FEED LIKER
  *  AUTHOR @auliaahmad16
- *  RECOMMENDED SLEEP 10s
+ *  RECOMMENDED SLEEP 100s
  
 ## Tutorial on Termux [ANDROID]
 	$ pkg upgrade && pkg update && pkg install git php
