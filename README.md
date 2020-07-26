@@ -4,9 +4,9 @@
 
 *  INSTAGRAM FEED LIKER
  *  AUTHOR @auliaahmad16
- *  RECOMMENDED SLEEP 100s
  
 ## Tutorial on Termux [ANDROID]
+	$ STAR THIS REPOSITORY!
 	$ pkg upgrade && pkg update && pkg install git php
 	$ git clone https://github.com/auliaahmad165/igfeedliker.git
 	$ cd igfeedliker
